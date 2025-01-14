@@ -22,8 +22,13 @@ Simple Random Sampling refers to a sample selection technique where every elemen
 
 * 1. A unique code is assigned to each participant's response, labeled as the variable "ID".
  
-![](
+![](https://github.com/julioalexp/Descriptive-Statistic-in-Excel/blob/main/1.png)
 
 * 2. We use the sampling function to obtain 1,000 sample observations (survey responses – individuals).
-  
-* 3. We use the filter function to extract data from the other variables. The searchv function could also work, but it would be more complex.
+ 
+![](https://github.com/julioalexp/Descriptive-Statistic-in-Excel/blob/main/2.png)
+
+ * 3. We use the filter function to extract data from the other variables. The searchv function could also work, but it would be more complex.
+ 
+ ![](https://github.com/julioalexp/Descriptive-Statistic-in-Excel/blob/main/3.png)
+
