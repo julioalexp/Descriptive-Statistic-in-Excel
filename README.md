@@ -33,6 +33,9 @@ Simple Random Sampling refers to a sample selection technique where every elemen
  
  ![](https://github.com/julioalexp/Descriptive-Statistic-in-Excel/blob/main/3.png)
 
+ ![](https://github.com/julioalexp/Descriptive-Statistic-in-Excel/blob/main/4.png)
+ ![](https://github.com/julioalexp/Descriptive-Statistic-in-Excel/blob/main/5.png)
+![](https://github.com/julioalexp/Descriptive-Statistic-in-Excel/blob/main/6.png)
  
 
 ## Usage of Excel
