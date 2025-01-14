@@ -33,6 +33,8 @@ Simple Random Sampling refers to a sample selection technique where every elemen
  
  ![](https://github.com/julioalexp/Descriptive-Statistic-in-Excel/blob/main/3.png)
 
+ 
+
 ## Usage of Excel
 
 Excel is a widely used tool in data analysis due to its versatility, ease of use, and accessibility. It allows users to organize, clean, and analyze data efficiently through features like sorting, filtering, formulas, and pivot tables. Excel is also equipped with tools for creating charts and graphs, making it a go-to option for quick visualizations. Its compatibility with various file formats and integration with other software further enhances its utility. While it has limitations with large datasets and advanced analytics, Excel remains a foundational tool in data analysis and is commonly used across industries for reporting and decision-making.
