@@ -1,5 +1,8 @@
 # Descriptive-Statistic-in-Excel
 
+![](https://github.com/julioalexp/Descriptive-Statistic-in-Excel/blob/main/excel.png)
+
+
 ## Introduction
 
 The objective of this report is to provide bank management with reliable information extracted, processed, and analyzed from telephone survey data. This will enable them to make well-informed decisions aimed at maximizing the bank's profits and revenues while maintaining its position as one of the leading banks in the region.
